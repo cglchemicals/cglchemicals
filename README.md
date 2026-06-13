@@ -8,20 +8,20 @@
 
 ### About Our Company 🏢
 
-  <p>▶ Focused on <strong>consistent supply</strong> and <strong>reliable sourcing</strong></p>
-  <p>▶ Strong <strong>market understanding</strong> of <strong>B2B chemical distribution</strong></p>
-  <p>▶ Emphasis on <strong>long-term client relationships</strong> and <strong>continuity</strong></p>
-  <p>▶ Active operations across:</p>
+  <p>👉 Focused on <strong>consistent supply</strong> and <strong>reliable sourcing</strong></p>
+  <p>👉 Strong <strong>market understanding</strong> of <strong>B2B chemical distribution</strong></p>
+  <p>👉 Emphasis on <strong>long-term client relationships</strong> and <strong>continuity</strong></p>
+  <p>👉 Active operations across:</p>
   <ul>
     <li><strong>Delhi NCR</strong></li>
     <li><strong>Mumbai</strong></li>
     <li><strong>UAE</strong></li>
   </ul>
-  <p>▶ Serving both <strong>domestic</strong> and <strong>international clients</strong> efficiently</p>
+  <p>👉 Serving both <strong>domestic</strong> and <strong>international clients</strong> efficiently</p>
 
 ### About Our Industries 🏭
 
-  <p>▶ <strong>Home Care</strong></p>
-  <p>▶ <strong>Personal Care</strong></p>
-  <p>▶ <strong>Institutional Cleaning</strong></p>
-  <p>▶ <strong>Export Manufacturing</strong></p>
+  <p>👉 <strong>Home Care</strong></p>
+  <p>👉 <strong>Personal Care</strong></p>
+  <p>👉 <strong>Institutional Cleaning</strong></p>
+  <p>👉 <strong>Export Manufacturing</strong></p>
