@@ -21,7 +21,7 @@
 
 ### About Our Industries 🏭
 
-  <p>👉 <strong>Home Care</strong></p>
-  <p>👉 <strong>Personal Care</strong></p>
+  <p>👉 <strong>Home Care Ingredients</strong></p>
+  <p>👉 <strong>Personal Care Ingredients</strong></p>
   <p>👉 <strong>Institutional Cleaning</strong></p>
   <p>👉 <strong>Export Manufacturing</strong></p>
