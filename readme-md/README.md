@@ -1,6 +1,6 @@
 # CGL CHEMICALS
 
-<img align="right" height="400" src="./LOGO.png" />
+<img align="right" height="400" src="./logo.png" />
 
 <p>CGL CHEMICALS supports home and personal care manufacturers with authorised distribution of surfactants and related ingredients. Our focus is on consistent supply, practical market knowledge, and dependable coordination for buyers who value quality and continuity.</p>
 <br />
